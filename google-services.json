@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "608201008233",
+    "firebase_url": "https://tourdetimor20180905.firebaseio.com",
+    "project_id": "tourdetimor20180905",
+    "storage_bucket": "tourdetimor20180905.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608201008233:android:90a83728479bf93f",
+        "android_client_info": {
+          "package_name": "com.phonegap.tourdetimor2018"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608201008233-c444p9k84147rl3m203mdb2h3u4vvpp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdDQzI7zDg9qHZiQjpDT35JFEvaoiaDCM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608201008233:android:8cf905b06ef9450b",
+        "android_client_info": {
+          "package_name": "com.tourdetimor.notify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608201008233-c444p9k84147rl3m203mdb2h3u4vvpp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdDQzI7zDg9qHZiQjpDT35JFEvaoiaDCM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
